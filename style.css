@@ -1,0 +1,23 @@
+.mode {
+    background-color: aqua;
+    color: darkslategray;
+    text-align: center;
+    padding-top: 8em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boom {
+    font-size: 4em;
+    background-color: red;
+    color: whitesmoke;
+    padding: 1em;
+}
+
+.boom:hover {
+    background-color: darkred;
+}
+
+.mode.is-active {
+    color: aqua;
+    background-color: darkslategray;
+}
