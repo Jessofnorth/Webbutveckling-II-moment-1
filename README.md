@@ -7,9 +7,9 @@ Webbplatsen i denna repo är dedikerad våran lärare Malin. Vilket innebär att
 Så skicka Malin kommandot för att klona denna repo så hon får sig ett skratt! :joy:
 
 Kommando:
-´´´
+```
 git clone https://github.com/Jessofnorth/Webbutveckling-II-moment-1.git
-´´´
+```
 
 Man kan även klicka på denna [länk](https://jessofnorth.github.io/Webbutveckling-II-moment-1/)
 Eller denna länk för att komma till min [Github sida](https://github.com/Jessofnorth)
